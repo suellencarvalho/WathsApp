@@ -1,10 +1,12 @@
-package com.example.wathsapp;
+package com.example.wathsapp.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.example.wathsapp.R;
 
 public class LoginActivity extends AppCompatActivity {
 
