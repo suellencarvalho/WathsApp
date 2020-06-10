@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602861867116",
+    "firebase_url": "https://wathsapp-d83a8.firebaseio.com",
+    "project_id": "wathsapp-d83a8",
+    "storage_bucket": "wathsapp-d83a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602861867116:android:a9ca1f0870711c67158849",
+        "android_client_info": {
+          "package_name": "com.example.wathsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602861867116-crq60rqq47b8ucgs843e1mspca8kh61g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcCYG5IQGppdPX0El7TbMJEq1w5-95cGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602861867116-crq60rqq47b8ucgs843e1mspca8kh61g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
